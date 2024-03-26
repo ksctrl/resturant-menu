@@ -13,7 +13,7 @@
 <p><strong>Drinks</strong></p>
 <p>Milkshake, Soda-Pop, Tea</p>
 
-<p style="color": #8b2ad1><strong>Dinner</strong></p>    
+<p style="color" #8b2ad1><strong>Dinner</strong></p>    
 <p>Steak, Pizza Party, Fantastic Fish, Veggie Fans </p>
 <p><strong>Drinks</strong></p>
 <p>Wine, Fresh Brewed Beer, Cocktails, Strawberry Milk</p>
