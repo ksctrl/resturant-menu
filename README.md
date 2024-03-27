@@ -10,7 +10,7 @@
 <p>Iced Americano, Matcha Lattes, Fruit Juices</p>
     <img src= https://www.freepik.com/free-photo/iced-cola-tall-glass_1025512.htm#queryice%20americano&position0&from_viewkeyword&trackais&uuidc7b01a13-74a6-4e21-ae79-9dab824bef4b> </div>
    <div> 
-<p> style="color" #03fc84; padding: 20px; border-style:solid; border-width:5px; margin:20px<strong>Lunch</strong></p> 
+<p style="color" #03fc84; padding: 20px; border-style:solid; border-width:5px; margin:20px<strong>Lunch</strong></p> 
 <p>Deluxe Sandwich, Pasta Takeover, Alfredo Apocalypse, Super Salad</p>
 <p><strong>Drinks</strong></p>
 <p>Milkshake, Soda-Pop, Tea</p> 
