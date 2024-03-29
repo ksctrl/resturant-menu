@@ -1,12 +1,10 @@
 <html>
   <body>
     <title> Kylie's Kafe! </title>
-  <br> 
-    <div>
 <p style="color"#fcb103; padding: 20px; border-style:solid; border-width: 5px; margin:20px> <strong> Breakfast </strong> </p>
     <p> Supreme Breakfast,
     Meat Lovers, Fruit Lovers, Donut Disaster</p>
-<p> <strong> Drinks </strong> </p> </div>
+<p> <strong> Drinks </strong> </p> 
 <p>Iced Americano, Matcha Lattes, Fruit Juices</p>
     <img src= https://www.freepik.com/free-photo/iced-cola-tall-glass_1025512.htm#queryice%20americano&position0&from_viewkeyword&trackais&uuidc7b01a13-74a6-4e21-ae79-9dab824bef4b> </div>
    <div> 
